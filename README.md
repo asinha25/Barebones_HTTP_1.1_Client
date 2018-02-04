@@ -1,4 +1,4 @@
-# Programming Assignment 1: A Barebones HTTP/1.1 Client
+# Programming Assignment: A Barebones HTTP/1.1 Client
 
 In this programming exercise, you will create a barebones web client. While
 python includes a basic http client module `http.client`, this assignment will
